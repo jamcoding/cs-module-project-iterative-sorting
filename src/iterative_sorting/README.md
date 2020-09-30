@@ -19,7 +19,7 @@ However, it should be noted that if you perform **Bubble Sort** on an array that
 
 ## Selection Sort
 
-***Selection Sort*** is an algorithm that many of you have probably used before when sorting things in your everyday lives. Imagine that you have several books you want to arrange on a shelf from shortest to tallest. You start off by looking for the shortest book, and when you find it, put it on the far left side of the shelf. Then, you look for the second shortest book and insert it directly to the right of the first book. You repeat this process, selecting the next shortest book and moving it next to the most recently placed book, until you have moved all books into the correct place. This is ***Selection Sort***.  
+***Selection Sort*** is an algorithm that many of you have probably used before when sorting things in your everyday lives. Imagine that you have several books you want to arrange on a shelf from shortest to tallest. You start off by looking for the shortest book, and when you find it, put it on the far left side of the shelf. Then, you look for the second shortest book and insert it directly to the right of the first book. You repeat this process, selecting the next shortest book and moving it next to the most recently placed book, until you have moved all books into the correct place. This is ***Selection Sort***.
 
 An example of this algorithm being applied to an array with 10 numerical elements can be seen in the video below.
 
@@ -33,7 +33,7 @@ An example of this algorithm being applied to an array with 10 numerical element
 
 2. For all indices EXCEPT the last index:
 
-    a. Loop through elements on right-hand-side 
+    a. Loop through elements on right-hand-side
     of current index and find the smallest element
 
     b. Swap the element at current index with the
